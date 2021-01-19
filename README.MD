@@ -19,7 +19,7 @@ Para essa missão, a FUCT disponibilizará 30 cargueiros, conforme a tabela T1 a
 
 | Quantidade | Classe | Capacidade (em toneladas) | Tipo de mineral compatível<br>(consultar tabela T2) |
 |---|---|---|---|
-| <br>15     | I      | 5                         | D                                                             |
+| 15     | I      | 5                         | D                                                             |
 | 10         | II     | 3                         | A                                                             |
 | 3          | III    | 2                         | C                                                             |
 | 2          | IV     | 0,5                       | B ou C                                                        |
@@ -63,7 +63,7 @@ Todos os cargueiros, **especialmente os de classe IV**, possuem ordens para **se
 
 Gostaríamos de ver uma solução *backend* desenvolvida em ASP.NET Core com [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0), aderente às práticas de DDD e utilizando Clean Architecture.
 
-O *frontend* pode ser elaborado tanto com [Vue.js](https://vuejs.org/) ou [Angular](https://angular.io/), priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/).
+O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/) ou [Angular](https://angular.io/), priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/).
 
 Ao iniciar a aplicação, ela deverá gerar uma carga de dados automática e em tempo de execução das saídas e retornos dos transportes para o período de, no mínimo, um ano, respeitando as regras mencionadas acima.
 
