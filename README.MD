@@ -18,21 +18,27 @@ O Sindicato dos Mineiros de Kepler (SMK186) utiliza uma REST API, hospedada nos 
 Para essa missão, a FUCT disponibilizará 30 cargueiros, conforme a tabela T1 abaixo:
 
 | Quantidade | Classe | Capacidade (em toneladas) | Tipo de mineral compatível<br>(consultar tabela T2) |
-|------------|--------|---------------------------|---------------------------------------------------------------|
+|---|---|---|---|
 | <br>15     | I      | 5                         | D                                                             |
 | 10         | II     | 3                         | A                                                             |
 | 3          | III    | 2                         | C                                                             |
 | 2          | IV     | 0,5                       | B ou C                                                        |
+
+
 *Tabela T1: Cargueiros disponíveis.*
-<br/><br/>
+
+
 | Mineral | Característica                | Preço ($)              |
-|---------|-------------------------------|------------------------|
+|---|---|---|
 | A       | Inflamável 🔥                  | $ 5.000,00 / 10^3 kg   |
 | B       | Risco Biológico ☣             | $ 10.000,00 / 10^-3 kg |
 | C       | Refrigerado 🧊                 | $ 3.000,00 / 10^-1 kg  |
 | D       | Sem características especiais | $ 100,00 / 10^2 kg     |
+
+
 *Tabela T2: Minérios e suas características*
-<br/><br/>
+
+
 Para atender essa necessidade a gerência deseja registrar as saídas e os retornos dos cargueiros, em formulário eletrônico, que deve solicitar:
 1. O tipo do cargueiro;
 2. A data e hora da saída e retorno, e;
