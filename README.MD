@@ -65,7 +65,7 @@ Gostaríamos de ver uma solução *backend* desenvolvida em ASP.NET Core com [.N
 
 O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/) ou [Angular](https://angular.io/), priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/).
 
-Ao iniciar a aplicação, ela deverá gerar uma carga de dados automática e em tempo de execução das saídas e retornos dos transportes para o período de, no mínimo, um ano, respeitando as regras mencionadas acima.
+Ao iniciar a aplicação, ela deverá gerar uma carga de dados automática e em tempo de execução das saídas e retornos dos transportes para o período de, no mínimo, um ano, respeitando as regras supramencionadas.
 
 ### Bônus
 - Mecanismo de login com padrão OAuth.
