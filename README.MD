@@ -63,7 +63,7 @@ Todos os cargueiros, **especialmente os de classe IV**, possuem ordens para **se
 
 Gostaríamos de ver uma solução *backend* desenvolvida em ASP.NET Core com [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0).
 
-O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/) ou [Angular](https://angular.io/), priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/).
+O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/)/[Angular](https://angular.io/) (priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/)) ou [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor).
 
 Ao iniciar a aplicação, ela deverá gerar uma carga de dados automática e em tempo de execução das saídas e retornos dos transportes para o período de, no mínimo, um ano, respeitando as regras supramencionadas.
 
