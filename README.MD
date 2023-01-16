@@ -61,7 +61,7 @@ Todos os cargueiros, **especialmente os de classe IV**, possuem ordens para **se
 
 ## O que é esperado do desafio?
 
-Gostaríamos de ver uma solução *backend* desenvolvida em ASP.NET Core com [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0).
+Gostaríamos de ver uma solução *backend* desenvolvida em ASP.NET Core com [.NET latest](https://dotnet.microsoft.com/pt-br/).
 
 O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/)/[Angular](https://angular.io/) (priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/)) ou [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor).
 
@@ -69,7 +69,6 @@ Ao iniciar a aplicação, ela deverá gerar uma carga de dados automática e em 
 
 ### Bônus
 - Mecanismo de login com padrão OAuth.
-- Utilização do padrão CQRS.
 - Publicação da solução do desafio na internet.
 - Testes unitários.
 - DDD / Clean Architecture.
@@ -80,6 +79,6 @@ O desafio pode ter deixado algumas informações implícitas ou omitido alguns d
 
 A especificação Open API para obter as informações dos minérios disponíveis por semana/mês/ano pode ser acessada em [https://fuct-smk186-code-challenge.cblx.com.br/swagger/](https://fuct-smk186-code-challenge.cblx.com.br/swagger/). O endereço para as requisições é o mesmo, mas sem o caminho `/swagger`.
 
-Por favor, encaminhe a resolução do desafio para o endereço [code-challenge@codeblox.com.br](mailto:code-challenge@codeblox.com.br). Também serão aceitos convites para repositórios privados (GitHub, BitBucket, etc.) e/ou arquivos compactados possuindo a solução, sendo preferível a primeira opção.
+Por favor, encaminhe a resolução do desafio para o endereço [code-challenge@codeblox.com.br](mailto:code-challenge@codeblox.com.br), devendo ela ser um link para um projeto publicado no Github.
 
 Poderemos convidá-lo, em um segundo momento, para batermos um papo sobre a solução que você escreveu 😉.
